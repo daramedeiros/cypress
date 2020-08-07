@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+
+#  Cypress
+/cypress/videos
+/cypress/screenshots
+/cypres/snapshots/**/__diff_output__
