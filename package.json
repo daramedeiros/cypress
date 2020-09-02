@@ -1,0 +1,11 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daramedeiros/cypress.git",
+  "author": "Dara <daraamedeiros@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "4.10.0"
+  }
+}
